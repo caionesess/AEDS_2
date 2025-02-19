@@ -25,6 +25,8 @@ int main (){
         j--; // [1]
     }
 
+    print(n,a,b);
+
     /*Em operadores OR, se o primeiro for verdadeiro, a segunda comparação não é executada.
     Em operadores AND, se o primeiro for falso, a segunda comparação não é executada.*/
 }
